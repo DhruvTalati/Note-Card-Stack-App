@@ -6,7 +6,7 @@ The application allows users to create call notes, store them in **localStorage*
 ---
 
 ## 🚀 Live Demo
-*https://dhruvtalati.github.io/Note-Card-Stack-App/*
+*https://note-card-stack-app.vercel.app/*
 
 ---
 
